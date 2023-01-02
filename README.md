@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="@anton7878">
+<a href="https://t.me/anton7878">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 
