@@ -1,10 +1,16 @@
 ### Hi there 👋
+<div align="center">
+  <div>
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/anton7878">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=antonstetsenko&style=flat-square&color=blue" alt=""/>
+</div>
 
-<a href="https://t.me/anton7878">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a>
-
-![](https://komarev.com/ghpvc/?username=antonstetsenko)
 <!--
 **antonstetsenko/antonstetsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
