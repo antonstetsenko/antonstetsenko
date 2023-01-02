@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="@anton7878">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</a>
+
 ![](https://komarev.com/ghpvc/?username=antonstetsenko)
 <!--
 **antonstetsenko/antonstetsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
