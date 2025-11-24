@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Frontend Developer specializing in **React**, **TypeScript**, and **Next.js** with **6+ years of experience**.
+Frontend Developer specializing in **React**, **TypeScript**, and **Next.js** with **5+ years of experience**.
 
 - 🔭 Strong team player with quick technology adoption skills
 - 💡 Focused on creating modern, efficient web applications with clean, maintainable code
