@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
 <h1 align="center">Hi 👋, I'm Anton Stetsenko</h1>
-<h3 align="center">Frontend Developer with 5+ years of experience</h3>
+<!-- <h3 align="center">Frontend Developer with 5+ years of experience</h3> -->
 
 <div align="center">
   <!-- <a href="https://www.linkedin.com/in/anton--stetsenko/">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Frontend Developer specializing in **React**, **TypeScript**, and **Next.js** with **5+ years of experience**.
+Fullstack Developer specializing in **React**, **TypeScript**, and **Next.js** with **5+ years of experience**.
 
 - 🔭 Strong team player with quick technology adoption skills
 - 💡 Focused on creating modern, efficient web applications with clean, maintainable code
